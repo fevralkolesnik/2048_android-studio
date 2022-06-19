@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738924131395",
+    "project_id": "game-2048-ed307",
+    "storage_bucket": "game-2048-ed307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738924131395:android:20eb93db282d2b61f050f6",
+        "android_client_info": {
+          "package_name": "com.example.a2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738924131395-pd93upapcveeno38q57m02pgdrrsleor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2048",
+            "certificate_hash": "0cd79184c0a2a7c76b3d4f6aa2bc571d6ac43f43"
+          }
+        },
+        {
+          "client_id": "738924131395-9bv3ggfovrocodcj1uhu9s1i8hsbk76p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDL5rA0HGv_L9sEh8AV7wawzMw4vWuZzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738924131395-9bv3ggfovrocodcj1uhu9s1i8hsbk76p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
